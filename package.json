@@ -1,0 +1,24 @@
+{
+  "name": "webscrapper",
+  "version": "1.0.0",
+  "description": "Just for study",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/josehpena/webscrapper.git"
+  },
+  "author": "Jose Pena",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/josehpena/webscrapper/issues"
+  },
+  "homepage": "https://github.com/josehpena/webscrapper#readme",
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.3",
+    "request": "^2.88.2",
+    "request-promise": "^4.2.6"
+  }
+}
